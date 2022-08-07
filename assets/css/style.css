@@ -1,0 +1,63 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: #fff;
+    font-family:'Fira Sans', sans-serif;
+}
+
+.navbar-brand{
+    font-weight: bold;
+    color: #fff;
+}
+
+.nav-link{
+    color: #fff;
+}
+
+.carousel-item{
+    background-position: center center;
+    background-repeat: no-repeat;    
+}
+
+h1{
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.col{
+    text-align: left;
+    margin-top: 30px;
+}
+
+h2{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+
+.card-title{
+    font-weight: bold;
+}
+
+
+
+.footer-wrap{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-black{
+    background-color: black;
+    opacity: 0.9;
+    color: #fff;
+
+}
